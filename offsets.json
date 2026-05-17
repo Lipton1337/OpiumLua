@@ -1,0 +1,6 @@
+{
+    "playerFlags": 0x660,
+    "lc_mstate": 0x630,
+    "skybox_getter": 0x0BF7F530,
+    "skybox_setter": 0x0BF7F580
+}
