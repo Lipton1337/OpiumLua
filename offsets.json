@@ -7,5 +7,5 @@
     "lc_mstate_int4": "0x40",
     "lc_mstate_int5": "0x60",
     "rapidfire": "0x29C",
-    "extendmelee": "0x34C",
+    "extendmelee": "0x34C"
 }
