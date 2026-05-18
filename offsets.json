@@ -6,5 +6,6 @@
     "lc_mstate_int3": "0x3C",
     "lc_mstate_int4": "0x40",
     "lc_mstate_int5": "0x60",
-    "rapidfire": "0x29C"
+    "rapidfire": "0x29C",
+    "extendmelee" "0x111"
 }
