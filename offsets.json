@@ -1,15 +1,15 @@
 {
-    "playerFlags": "0x660",
+    "PlayerFlags": "0x660",
     "lc_mstate": "0x630",
     "lc_mstate_int1": "0x24",
     "lc_mstate_int2": "0x38",
     "lc_mstate_int3": "0x3C",
     "lc_mstate_int4": "0x40",
     "lc_mstate_int5": "0x60",
-    "rapidfire": "0x29C",
-    "extendmelee": "0x34C",
-    "speedhack": "0x600",
-    "speedhack_float1": "0x3C",
-    "speedhack_float2": "0x40",
-    "speedhack_float3": "0x44"
+    "RepeatDelay": "0x29C",
+    "AttackRadius": "0x34C",
+    "BaseMovement": "0x600",
+    "BaseMovement_float1": "0x3C",
+    "BaseMovement_float2": "0x40",
+    "BaseMovement_float3": "0x44"
 }
