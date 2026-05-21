@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": "",
+  "text5": "",
+  "offsets": {
+    "RepeatDelay": "0x12C",
+    "AttackRadius": "0x130",
+    "PlayerFlags": "0x1A0",
+    "BaseMovement": "0x1B8",
+    "lc_mstate": "0x1C0"
+  }
+}
