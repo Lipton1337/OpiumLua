@@ -1,15 +1,23 @@
 {
-  "version": "1.0",
-  "text1": "",
-  "text2": "",
-  "text3": "",
-  "text4": "",
-  "text5": "",
+  "version": "1.1",
+  "text1": "Testing this paste",
+  "text2": "BLUME.PW",
+  "text3": "SLUH@",
+  "text4": "LLLLLLYYYYAMMMM DVESSTTIII",
+  "text5": "HU1",
   "offsets": {
-    "RepeatDelay": "0x12C",
-    "AttackRadius": "0x130",
-    "PlayerFlags": "0x1A0",
-    "BaseMovement": "0x1B8",
-    "lc_mstate": "0x1C0"
+    "PlayerFlags": "0x660",
+    "lc_mstate": "0x630",
+    "lc_mstate_int1": "0x24",
+    "lc_mstate_int2": "0x38",
+    "lc_mstate_int3": "0x3C",
+    "lc_mstate_int4": "0x40",
+    "lc_mstate_int5": "0x60",
+    "RepeatDelay": "0x29C",
+    "AttackRadius": "0x34C",
+    "BaseMovement": "0x600",
+    "BaseMovement_float1": "0x3C",
+    "BaseMovement_float2": "0x40",
+    "BaseMovement_float3": "0x44"
   }
 }
