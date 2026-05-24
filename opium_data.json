@@ -15,7 +15,7 @@
     "lc_mstate_int5": "0x78",
     "RepeatDelay": "0x294",
     "AttackRadius": "0x34C",
-    "BaseMovement": "0x600",
+    "BaseMovement": "0x488",
     "BaseMovement_float1": "0x3C",
     "BaseMovement_float2": "0x40",
     "BaseMovement_float3": "0x44"
