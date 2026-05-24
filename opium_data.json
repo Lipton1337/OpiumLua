@@ -13,7 +13,7 @@
     "lc_mstate_int3": "0x60",
     "lc_mstate_int4": "0x74",
     "lc_mstate_int5": "0x78",
-    "RepeatDelay": "0x294",
+    "RepeatDelay": "0x555",
     "AttackRadius": "0x34C",
     "BaseMovement": "0x600",
     "BaseMovement_float1": "0x3C",
